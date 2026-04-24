@@ -8,6 +8,7 @@ Multi-color 3D printer research. Focus: zero purge, fast color swaps, 4+ colors.
 - [2026-04-22-3d-printers-v2.md](2026-04-22-3d-printers-v2.md) — Second agent run with stricter instructions.
 - [2026-04-22-bondtech-indx.md](2026-04-22-bondtech-indx.md) — Bondtech INDX toolchanger + open source competitors.
 - [2026-04-22-aggregator-sites.md](2026-04-22-aggregator-sites.md) — Sites for ongoing 3D printer research.
+- [2026-04-23-multi-axis-support-free.md](2026-04-23-multi-axis-support-free.md) — Multi-axis / robotic arm printers for support-free printing.
 
 ## Context
 
